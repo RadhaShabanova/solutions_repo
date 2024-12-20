@@ -1,4 +1,4 @@
-# Parabola
+# Parabola Rada
 
 Parabola to krzywa płaska, która jest zbiorem punktów równo odległych od:
 
